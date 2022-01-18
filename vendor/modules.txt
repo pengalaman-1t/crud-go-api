@@ -1,0 +1,30 @@
+# github.com/felixge/httpsnoop v1.0.2
+## explicit
+github.com/felixge/httpsnoop
+# github.com/go-sql-driver/mysql v1.6.0
+github.com/go-sql-driver/mysql
+# github.com/gorilla/handlers v1.5.1
+## explicit
+github.com/gorilla/handlers
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.4
+github.com/jinzhu/now
+# github.com/joho/godotenv v1.4.0
+## explicit
+github.com/joho/godotenv
+# gorm.io/driver/mysql v1.2.3
+## explicit
+gorm.io/driver/mysql
+# gorm.io/gorm v1.22.5
+## explicit
+gorm.io/gorm
+gorm.io/gorm/callbacks
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/migrator
+gorm.io/gorm/schema
+gorm.io/gorm/utils
